@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NerdLauncher</string>
+    <string name="activity_image">Activity image</string>
+</resources>
