@@ -9,3 +9,5 @@
 - Работа с PackageManager
 - Обработка неявных интентов
 - Обработка явных интентов
+## Скачать
+[NerdLauncher.apk](https://github.com/BelDim04/bignerdranchLauncher/blob/master/NerdLauncher.apk)
